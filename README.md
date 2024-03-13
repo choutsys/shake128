@@ -1,4 +1,4 @@
-# A SHAKE128 implementation 
+# A `SHAKE128` implementation 
 
 *The Makefile builds a program called `shake128` that computes the digest of the stream of bytes present in the standard input. The size of the digest is chosen by the user and is expressed in bytes, and the program prints the digest as a hexadecimal string.* 
 ## Building the program
